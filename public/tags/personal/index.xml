@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>VaSuper&#39;s Terminal on This is my site</title>
-    <link>http://example.org/</link>
-    <description>Recent content in VaSuper&#39;s Terminal on This is my site</description>
+    <title>personal on This is my site</title>
+    <link>http://example.org/tags/personal/</link>
+    <description>Recent content in personal on This is my site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jul 2022 20:51:51 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My Blogs</title>
-      <link>http://example.org/blog/my-blogs/</link>
-      <pubDate>Sat, 16 Jul 2022 19:58:08 -0500</pubDate>
-      
-      <guid>http://example.org/blog/my-blogs/</guid>
-      <description>This is where my thoughts reside. To learn about me about me</description>
-      <content>&lt;p&gt;This is where my thoughts reside.
-To learn about me &lt;a href=&#34;http://example.org/about&#34;&gt;about me&lt;/a&gt;&lt;/p&gt;
-</content>
-    </item>
-    
+    <lastBuildDate>Sat, 16 Jul 2022 19:54:40 -0500</lastBuildDate><atom:link href="http://example.org/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From</title>
       <link>http://example.org/from/</link>

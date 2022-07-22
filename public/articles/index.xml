@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles that I found interesting on This is my site</title>
+    <link>http://example.org/articles/</link>
+    <description>Recent content in Articles that I found interesting on This is my site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Jul 2022 20:51:51 -0500</lastBuildDate><atom:link href="http://example.org/articles/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>updates on This is my site</title>
+    <link>http://example.org/tags/updates/</link>
+    <description>Recent content in updates on This is my site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Jul 2022 19:44:47 -0500</lastBuildDate><atom:link href="http://example.org/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 16 Jul 2022 19:44:47 -0500</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>This page should tell you everything about me.  Where am I from? What am I doing right now? What&amp;rsquo;s next for me?   This is my dev setup right now </description>
+      <content>&lt;h2 id=&#34;this-page-should-tell-you-everything-about-me&#34;&gt;This page should tell you everything about me.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Where am I from?&lt;/li&gt;
+&lt;li&gt;What am I doing right now?&lt;/li&gt;
+&lt;li&gt;What&amp;rsquo;s next for me?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;this-is-my-dev-setup-right-now&#34;&gt;This is my dev setup right now&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://example.org/neofetch_output.png&#34; alt=&#34;neofetch&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
